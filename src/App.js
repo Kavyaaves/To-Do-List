@@ -80,7 +80,6 @@ class App extends React.Component {
             <button type="submit">Add</button>
           </form>
         </header>
-
         <ListItems
           items={this.state.items}
           setUpdate={this.setUpdate}
