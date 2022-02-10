@@ -1,8 +1,6 @@
-## Bootstrapped with create-react-app
-
 ## To-Do
 
-A simple todo website to get started with React.
+A simple todo website to get started with React. Bootstrapped with Create-React-App
 
 ## Deployed at
 
